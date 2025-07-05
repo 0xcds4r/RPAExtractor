@@ -50,5 +50,5 @@ Run the script:
 ./RPAExtractorApp.sh
 ```
 
-### RPYC Decryption
+### ⚙️ RPYC Decryption
 Use [https://grviewer.com/tab/rpyc-decompiler-online](https://grviewer.com/tab/rpyc-decompiler-online)
