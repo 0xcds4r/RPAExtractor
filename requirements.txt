@@ -1,0 +1,10 @@
+certifi==2025.6.15
+charset-normalizer==3.4.2
+future==1.0.0
+idna==3.10
+ratelimit==2.2.1
+requests==2.32.4
+rpycdec==0.1.6
+setuptools==80.9.0
+unrpa==2.3.0
+urllib3==2.5.0
