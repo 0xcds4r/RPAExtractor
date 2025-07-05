@@ -15,6 +15,9 @@ To get the latest version, clone the repo with:
 
 ```bash
 git clone https://github.com/0xcds4r/RPAExtractor.git
+```
+
+```bash
 cd RPAExtractor
 ```
 
