@@ -49,3 +49,6 @@ Run the script:
 ```bash
 ./RPAExtractorApp.sh
 ```
+
+### RPYC Decryption
+Use [https://grviewer.com/tab/rpyc-decompiler-online](https://grviewer.com/tab/rpyc-decompiler-online)
