@@ -2,6 +2,9 @@
 
 **RPAExtractor** is a simple Python tool for extracting `.rpa` archives (used in Ren'Py games).
 
+![image](https://github.com/user-attachments/assets/16def077-d4c1-4071-b57f-8d85087da30a)
+
+
 ---
 
 ✅ **Tested on:** Linux (Ubuntu 22.04)  
