@@ -23,3 +23,9 @@ Make the script executable:
 
 ```bash
 chmod +x ./RPAExtractorApp.sh
+```
+
+Run the script:
+```bash
+./RPAExtractorApp.sh
+```
