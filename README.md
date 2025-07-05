@@ -9,6 +9,15 @@
 
 ---
 
+## 📥 Clone the Repository
+
+To get the latest version, clone the repo with:
+
+```bash
+git clone https://github.com/0xcds4r/RPAExtractor.git
+cd RPAExtractor
+```
+
 ## 🚀 Setup & Run
 
 Use the `RPAExtractorApp.sh` script to automatically:
